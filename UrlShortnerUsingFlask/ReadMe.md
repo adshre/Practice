@@ -1,4 +1,5 @@
 # Url-Shortner Using Flask.
+![Alt text](UrlShortner.gif)
 
 This repo contains flask application that helps to shorten Urls given as input and also keep a count of number of visits done.
 
