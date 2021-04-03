@@ -1,9 +1,9 @@
 # Url-Shortner Using Flask.
 ![Alt text](UrlShortner.gif)
 
-This repo contains flask application that helps to shorten Urls given as input and also keep a count of number of visits done.
+This repo contains flask application that helps to shorten Urls given as input and also keep a count of number of visits done for these urls.
 
-While practicing it helped me to learn how flask structure, integration of db and also how url shortner like tinyurl may be designed.
+While practicing it helped me to learn basic flask structure, integration of db and also how url shortner, like tinyurl, may be designed.
 
 
 # Libraries used :
